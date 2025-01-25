@@ -20,7 +20,9 @@ main {
     padding: 20px;
     text-align: center;
 }
-
+img {
+    width: 275px;
+}
 /* Footer styles */
 footer {
     background-color: #333;
